@@ -15,12 +15,12 @@ La piscine est un concept pédagogique simple: vous avez des sujets avec des exe
 Un système de correction automatique sera mis en place pour corriger les exercices corrigeable. Les exercices nécessitant la mise en place d'une Dapp ne pourront pas etre corriges automatiquement.
 
 
-## [Jour 1](./Day_01/day_1.md)
+## [Chapter 1](./Chap_01/chap_1.md)
 
-## [Jour 2](./Day_02/day_2.md)
+## [Chapter 2](./Chap_02/chap_2.md)
 
-## [Jour 3](./Day_03/day_3.md)
+## [Chapter 3](./Chap_03/chap_3.md)
 
-## [Jour 4](./Day_04/day_4.md)
+## [Chapter 4](./Chap_04/chap_4.md)
 
 ## [PoolDapps](./PoolDapps/PoolDapps.md)

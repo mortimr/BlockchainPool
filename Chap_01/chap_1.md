@@ -1,13 +1,13 @@
 <div style="text-align:center" ><img src ="images/ETH.png" width="30%" /></div>
 
-# Blockchain Pool Day 1
+# Blockchain Chapter 1
 
 ## Rendu
 
  
- `npm install` sera lancé avant l'exécution de votre exercice, veillez à avoir un `package.json` correct.
+`npm install` sera lancé avant l'exécution de votre exercice, veillez à avoir un `package.json` correct.
  
- Vous avez le droit uniquement aux modules s'installant via npm, et aux fonctions JS basiques.
+Vous avez le droit uniquement aux modules s'installant via npm, et aux fonctions JS basiques.
 
 
 ## Introduction

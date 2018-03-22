@@ -1,6 +1,6 @@
 <div style="text-align:center" ><img src ="images/ETH.png" width="30%" /></div>
 
-# Blockchain Pool Day 3
+# Blockchain Chapter 3
 
 ## Rendu
 
