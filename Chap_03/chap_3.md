@@ -116,7 +116,7 @@ Vous devez `catch` les erreurs dans les scripts de test dans votre `test.js`, et
 
 Un MultiSig Wallet est un Smart Contract conçu pour contenir des fonds au nom de plusieurs personnes. Lorsqu'une transaction est demandée, le Smart Contract s'assure que tous les membres du groupe ont accepté la transaction.
 
-Ecrivez dans un dossier `BasicMultiSigWallet`, un Smart Contract `Democracy.sol`  implémentant les méthodes suivantes.
+Ecrivez dans un dossier `BasicMultiSigWallet`, un Smart Contract `MemberManager.sol`  implémentant les méthodes suivantes.
 
 
 ```
@@ -136,7 +136,7 @@ function isUser(address) constant returns (bool)
 // Return true si l'utilisateur est dans la liste
 ```
 
-Lorsque vous pensez avoir fini votre `Democracy.sol`, commencez votre `BasicMultiSigWallet.sol`, qui héritera de `Democracy.sol` et de sa gestion d'utilisateur et implémentera les méthodes suivantes.
+Lorsque vous pensez avoir fini votre `MemberManager.sol`, commencez votre `BasicMultiSigWallet.sol`, qui héritera de `MemberManager.sol` et de sa gestion d'utilisateur et implémentera les méthodes suivantes.
 
 ```
 function send(address, uint256)
