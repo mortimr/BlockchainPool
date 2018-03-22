@@ -14,6 +14,10 @@ La piscine est un concept pédagogique simple: vous avez des sujets avec des exe
 
 Un système de correction automatique sera mis en place pour corriger les exercices corrigeable. Les exercices nécessitant la mise en place d'une Dapp ne pourront pas etre corriges automatiquement.
 
+#### Comment rendre mon travail
+
+Chaque chapitre donne des instructions sur l'arborescence nécessaire. Il faudra donc faire un dépot git pour chaque chapitre, tout en respectant les instructions particulières au chapitre.
+
 
 ## [Chapter 1](./Chap_01/chap_1.md)
 
