@@ -4,7 +4,7 @@
 
 #### Pour qui est cette piscine
 
-Cette formation est ouverte à toutes personnes souhaitant comprendre comment créer une Dapp Ethereum. Elle aborde des concepts comme la génération de paires de clés, les signatures ECDSA, la génération de transactions, l'utilisation de web3, de truffle, ganache et metamask... Les exercices sont progressifs, et certains notions servent uniquement à faire comprendre comment les choses se passent en coulisses. Par exemple, aujourd'hui les Dapps n'ont pas besoin de générer manuellement les Wallets car une meilleure pratique reste d'utiliser des Wallet Manager tierces comme Metamask. Ces concepts restent cependant intéressants, et vous permettent d'avoir une vision plus approfondie d'Ethereum. 
+Cette formation est ouverte à toutes personnes souhaitant comprendre comment créer une Dapp Ethereum. Elle aborde des concepts comme la génération de paires de clés, les signatures ECDSA, la génération de transactions, l'utilisation de web3, de truffle, ganache et metamask... Les exercices sont progressifs, et certaines notions servent uniquement à faire comprendre comment les choses se passent en coulisses. Par exemple, aujourd'hui les Dapps n'ont pas besoin de générer manuellement les Wallets car une meilleure pratique reste d'utiliser des Wallet Manager tierces comme Metamask. Ces concepts restent cependant intéressants, et vous permettent d'avoir une vision plus approfondie d'Ethereum. 
 
 #### Qu'est ce qu'une piscine ?
 
